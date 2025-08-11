@@ -1,0 +1,18 @@
+! Wykop.pl
+wykop.pl##.sidebar-2.sticky.pub-slot-wrapper
+wykop.pl##.sidebar-1.pub-slot-wrapper
+wykop.pl##.top.pub-slot-wrapper
+wykop.pl##section[class*="stream-"].pub-slot-wrapper
+wykop.pl##section[class*="sponsored-"].pub-slot-wrapper
+wykop.pl##section[class*="market-"].pub-slot-wrapper
+
+! https://mmorpg.org.pl
+mmorpg.org.pl##.ejZCUf.sc-ff6ff8de-1 > div.bAOreb.sc-529c4f9d-0
+mmorpg.org.pl###sg_half_1
+mmorpg.org.pl##.isSOUE.sc-ac637554-1 > div.bAOreb.sc-529c4f9d-0
+mmorpg.org.pl##.kKsGxA.sc-bfc70c3f-3 > div.bAOreb.sc-529c4f9d-0 > .bzPCKt.sc-529c4f9d-2
+
+! https://infrastruktura.eu
+infrastruktura.eu##.pb-40.pt-72.section-wrap
+
+
