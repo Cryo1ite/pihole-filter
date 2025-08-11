@@ -15,4 +15,4 @@ mmorpg.org.pl##.kKsGxA.sc-bfc70c3f-3 > div.bAOreb.sc-529c4f9d-0 > .bzPCKt.sc-529
 ! https://infrastruktura.eu
 infrastruktura.eu##.pb-40.pt-72.section-wrap
 
-
+||pixel.wp.pl/push_manager/sw.js$script,1p
